@@ -1,0 +1,2 @@
+
+    advance(it, 2);
